@@ -55,6 +55,11 @@ if (app.Environment.IsDevelopment())
 else
 {
     // Configurações para produção
+    app.UseSwagger();
+    app.UseSwaggerUI(c =>
+    {
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "SplitBills API V1");
+    });
     app.UseExceptionHandler("/error"); // Página ou endpoint de erro
     app.UseHsts(); // Segurança HTTPS
 }
