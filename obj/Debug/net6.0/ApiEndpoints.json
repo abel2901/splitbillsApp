@@ -1,0 +1,82 @@
+[
+  {
+    "ContainingType": "SplitBillsApi.Controllers.GastoController",
+    "Method": "CriarGasto",
+    "RelativePath": "api/Gasto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "SplitBillsApi.DTO.GastoCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SplitBillsApi.Controllers.GastoController",
+    "Method": "ListarGastosPendentes",
+    "RelativePath": "api/Gasto/{grupoId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "grupoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SplitBillsApi.Controllers.GastoController",
+    "Method": "PagarGasto",
+    "RelativePath": "api/Gasto/{id}/pagar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SplitBillsApi.Controllers.GruposController",
+    "Method": "CriarGrupo",
+    "RelativePath": "api/Grupos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "grupo",
+        "Type": "SplitBillsApi.Models.Grupo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SplitBillsApi.Controllers.GruposController",
+    "Method": "ObterSaldos",
+    "RelativePath": "api/Grupos/{id}/saldos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
