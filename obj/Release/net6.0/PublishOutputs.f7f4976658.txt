@@ -1,6 +1,11 @@
 C:\Users\abel2\source\repos\SplitBillsApi\SplitBillsApi\out\SplitBillsApi.exe
+C:\Users\abel2\source\repos\SplitBillsApi\SplitBillsApi\out\out\web.config
 C:\Users\abel2\source\repos\SplitBillsApi\SplitBillsApi\out\appsettings.Development.json
 C:\Users\abel2\source\repos\SplitBillsApi\SplitBillsApi\out\appsettings.json
+C:\Users\abel2\source\repos\SplitBillsApi\SplitBillsApi\out\out\appsettings.Development.json
+C:\Users\abel2\source\repos\SplitBillsApi\SplitBillsApi\out\out\appsettings.json
+C:\Users\abel2\source\repos\SplitBillsApi\SplitBillsApi\out\out\SplitBillsApi.deps.json
+C:\Users\abel2\source\repos\SplitBillsApi\SplitBillsApi\out\out\SplitBillsApi.runtimeconfig.json
 C:\Users\abel2\source\repos\SplitBillsApi\SplitBillsApi\out\SplitBillsApi.dll
 C:\Users\abel2\source\repos\SplitBillsApi\SplitBillsApi\out\SplitBillsApi.runtimeconfig.json
 C:\Users\abel2\source\repos\SplitBillsApi\SplitBillsApi\out\SplitBillsApi.pdb
