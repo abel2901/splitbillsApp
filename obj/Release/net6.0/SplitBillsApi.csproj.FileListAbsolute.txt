@@ -104,3 +104,8 @@ C:\Users\abel2\source\repos\SplitBillsApi\SplitBillsApi\obj\Release\net6.0\refin
 C:\Users\abel2\source\repos\SplitBillsApi\SplitBillsApi\obj\Release\net6.0\SplitBillsApi.pdb
 C:\Users\abel2\source\repos\SplitBillsApi\SplitBillsApi\obj\Release\net6.0\SplitBillsApi.genruntimeconfig.cache
 C:\Users\abel2\source\repos\SplitBillsApi\SplitBillsApi\obj\Release\net6.0\ref\SplitBillsApi.dll
+C:\Users\abel2\source\repos\SplitBillsApi\SplitBillsApi\bin\Release\net6.0\out\web.config
+C:\Users\abel2\source\repos\SplitBillsApi\SplitBillsApi\bin\Release\net6.0\out\appsettings.Development.json
+C:\Users\abel2\source\repos\SplitBillsApi\SplitBillsApi\bin\Release\net6.0\out\appsettings.json
+C:\Users\abel2\source\repos\SplitBillsApi\SplitBillsApi\bin\Release\net6.0\out\SplitBillsApi.deps.json
+C:\Users\abel2\source\repos\SplitBillsApi\SplitBillsApi\bin\Release\net6.0\out\SplitBillsApi.runtimeconfig.json
