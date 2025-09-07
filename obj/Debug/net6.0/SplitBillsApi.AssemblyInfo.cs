@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SplitBillsApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14c1aec732404ec2e0b1fb98dc754fc85ddd929d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+794e7db91b961cb2a43cbbb8c9ac03e6c636d282")]
 [assembly: System.Reflection.AssemblyProductAttribute("SplitBillsApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SplitBillsApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
